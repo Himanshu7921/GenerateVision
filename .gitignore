@@ -1,3 +1,4 @@
 artifacts/
 jupyter_to_py.py
 __pycache__/
+data/
